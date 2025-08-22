@@ -7,7 +7,7 @@ It has been trained and tested on **MuJoCo control environments** using expert d
 
 ---
 
-## 📽 Demo
+## EVAL-Return
 <img src="return-result.jpeg">
 
 
