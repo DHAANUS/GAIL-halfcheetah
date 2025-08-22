@@ -8,7 +8,7 @@ It has been trained and tested on **MuJoCo control environments** using expert d
 ---
 
 ## 📽 Demo
-<img src="return-result">
+<img src="return-result.jpeg">
 
 
 ---
