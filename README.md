@@ -8,10 +8,8 @@ It has been trained and tested on **MuJoCo control environments** using expert d
 ---
 
 ## 📽 Demo
+<img src="return-result">
 
-<p align="center">
-  <img src="return-result" width="500">
-</p>
 
 ---
 
